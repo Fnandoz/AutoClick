@@ -1,6 +1,6 @@
 PyAutoClick
 
-An basic auto click for games and others.
+An basic auto click for games and others things.
 
 Using Python 2.x and PyAutoGUI.
 
