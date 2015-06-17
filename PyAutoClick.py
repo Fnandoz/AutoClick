@@ -22,3 +22,4 @@ try:
         
 except KeyboardInterrupt:
     pyautogui.alert(text = "Saindo...", title = 'Auto click')
+   
