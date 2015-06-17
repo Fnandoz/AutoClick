@@ -7,3 +7,4 @@ while(True):
         import AUTOCLICK01.py
     else:
         break
+
