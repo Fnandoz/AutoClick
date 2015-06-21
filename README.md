@@ -2,7 +2,7 @@ PyAutoClick
 
 An basic auto click for games and others things.
 
-Using Python 2.x and PyAutoGUI.
+Using Python 2.7 and PyAutoGUI.
 
 
 Objective:
